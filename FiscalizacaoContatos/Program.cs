@@ -22,5 +22,7 @@ namespace FiscalizacaoContatos
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+
     }
 }
